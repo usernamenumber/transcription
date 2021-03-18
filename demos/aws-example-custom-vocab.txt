@@ -1,0 +1,4 @@
+Phrase	SoundsLike	DisplayAs	IPA
+Brad	Brad	throat wobbler mangrove
+dinglehopper	ding-ull-hopp-er	DingleHopper
+mortgage	mawr-gij	PARTY
